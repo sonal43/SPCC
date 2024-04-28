@@ -1,6 +1,6 @@
 # System Programming and Compiler Construction
 
-This is a repository contains programs related to the SPCC course at Mumbai University, Semester 6 Computer Engineering. 
+This is a repository that contains programs related to the SPCC course at Mumbai University, Semester 6 Computer Engineering. 
 ## Experiments Included:
 
  **Experiment 2: Lexical Analysis in C**
